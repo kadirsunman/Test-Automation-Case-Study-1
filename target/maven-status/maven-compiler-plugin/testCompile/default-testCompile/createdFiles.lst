@@ -1,0 +1,12 @@
+bootcamp\pages\Homepage.class
+bootcamp\utils\Helper.class
+bootcamp\utils\Driver.class
+bootcamp\pages\SelectedItemPage.class
+bootcamp\pages\SigInPage.class
+bootcamp\pages\SearchResultPage.class
+bootcamp\step_def\MyStepDefs.class
+bootcamp\pages\ItemsPage.class
+bootcamp\pages\SignInGooglePasswordPage.class
+bootcamp\pages\SignInGooglePage.class
+bootcamp\runners\FirstTaskRunners.class
+bootcamp\step_def\Hooks.class
